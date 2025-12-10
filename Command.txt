@@ -1,0 +1,33 @@
+
+************************Django************************
+
+Setup back end = py -m venv env
+Activate env enviroment = .\env\Scripts\activate
+Instrall the Django = pip install django
+Create Project = django-admin startproject backend
+Create App in Backend =  py manage.py startapp website
+Run Server Backend = py manage.py runserver 
+Install MySQl = pip install mysqlclient 
+Migration Mysql = python manage.py makemigrations
+Migrate Mysql = python manage.py migrate
+Env Enviroment eka deactivete  = deactivate
+
+Activate Enviroment = .\env\Scripts\activate
+
+Create Superuser = py manage.py createsuperuser
+                Superuser : Sandamini
+                Password  : (Kavindya@123)
+
+Instrall Image library = pip install Pillow
+
+************************Next.js************************
+
+Next.js Run = npm run dev
+
+Instrall Boostrap = npm install bootstrap
+Install React Carousel Package = npm install react-responsive-carousel
+
+
+********************************API*************************
+Instrall Django rest framework = pip install djangorestframework
+Create requreiment.txt file =  pip freeze .\requirements.txt
